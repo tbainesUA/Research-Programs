@@ -5,4 +5,4 @@ email: tylerbaines@email.arizona.edu
 
 These scipts will be used to model and fit SED profiles to YSOs in the Cha I star forming region, using a radiative transfer equation for a Disk Models and stellar atmosphere Phoenix or Kurucz Models. Using these models alongside MCMC method implimented by using Emcee to explore the parameter space of the disk models.
 
-*This respository currently in the works of collecting all codes to be uploaded.
+*This respository currently in the works of collecting all my codes I have written to be uploaded.
